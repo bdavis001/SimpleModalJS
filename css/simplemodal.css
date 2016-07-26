@@ -1,0 +1,16 @@
+.s-overlay{
+    width:100%;
+    height:100%;
+    background:#c4c4c4;
+    display:none;
+    position:absolute;
+    top:0px;
+    left:0px;
+}
+
+.modal{
+    display:block;
+    width:500px;
+    height:300px;
+    background:#656565;
+}

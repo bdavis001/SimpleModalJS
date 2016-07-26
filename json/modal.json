@@ -1,0 +1,8 @@
+{
+    "invalid": "you have entered an invalid code.",
+    "incorrect": "the code you entered is incorrect",
+    "inuse": "This username is already in use.",
+    "success": "Your message has been sent successfully",
+    "inprogress": "Your request is in process",
+    "default": "Message not found"
+}
